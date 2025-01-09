@@ -1,1 +1,1 @@
-# gitpractices
+Repo for practices git
